@@ -1,0 +1,6 @@
+﻿  Card.cpp
+  Deck.cpp
+C:\Users\river\Documents\School\Interview\C++_Example_Shuffle_Deck\Deck.cpp(51,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+  Generating Code...
+  C++_Example_Shuffle_Deck.vcxproj -> C:\Users\river\Documents\School\Interview\C++_Example_Shuffle_Deck\x64\Debug\C++_Example_Shuffle_Deck.exe

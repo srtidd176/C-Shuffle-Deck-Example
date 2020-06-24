@@ -16,7 +16,7 @@ class Deck
 
 	public:
 		Deck();
-		Card * getDrawPile();
+		Card* getDrawPile();
 		Card* getDiscardPile();
 		void drawCard();
 		void shuffle();

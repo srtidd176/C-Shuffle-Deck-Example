@@ -1,4 +1,4 @@
-# C-Shuffle-Deck-Example
+# C++-Shuffle-Deck-Example
 Example C++ code for a deck shuffling problem
 
 The class Deck is made of Card objects. The main function shuffles the deck and draws out
